@@ -5,7 +5,7 @@ title: NWS Weather - Speechhandler
 type: speechhandlers
 description: "Weather reports from the National Weather Service"
 logo: images/plugins/nwsweather.png
-source: https://github.com/aaronchantrill/NaomiFrotz/edit/master/README.md
+source: https://github.com/aaronchantrill/naomi_nws_weather/blob/main/readme.md
 meta:
   - property: og:title
     content: "NWS Weather - Speechhandler"
